@@ -56,4 +56,4 @@ Flutter provides a strong balance between performance, cross-platform support, a
 ## Links
 
 * Related PRs: None yet.  
-* Related User Journeys: [User Journey Analysis](2024-01-10-user-journey-analysis.md).
+* Related User Journeys: [User Journey Analysis]
