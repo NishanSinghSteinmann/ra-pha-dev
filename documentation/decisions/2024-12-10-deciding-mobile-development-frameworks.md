@@ -9,6 +9,7 @@ The team is planning to develop a cross-platform mobile application. The choice 
 ## Priorities & Constraints
 
 * **Performance**: Ensure the app performs smoothly, especially for graphics-intensive features.  
+* **Performance**: Ensure the app performs smoothly, especially for graphics-intensive features.  
 * **Development Speed**: Optimize for faster time-to-market.  
 * **Cross-Platform Capability**: Minimize duplicate work for iOS and Android.  
 * **Developer Expertise**: Leverage existing skillsets within the team.  
@@ -56,4 +57,4 @@ Flutter provides a strong balance between performance, cross-platform support, a
 ## Links
 
 * Related PRs: None yet.  
-* Related User Journeys: [User Journey Analysis]
+* Related User Journeys: [User Journey Analysis](2024-01-10-user-journey-analysis.md).
